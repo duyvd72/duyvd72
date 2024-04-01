@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy Vu</h1>
-<h3 align="center">I'm an ordinary Web developer with a curiosity about the world and a desire to learn new things.</h3>
+<h3 align="center">I'm an ordinary Web developer with a curiosity about the world!</h3>
 
 - 📫 You can contact me via **duyvd0702@gmail.com**
 
